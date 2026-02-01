@@ -15,7 +15,7 @@ Python 3.13
 
 2. TOOLS & SOFTWARE USED
 🔹 1. Python
-🔹 2. Scapy (Most Important)
+🔹 2. Scapy
 🔹 3. Npcap / WinPcap (Background Tool)
 🔹 4. Command Prompt (Administrator)
 
@@ -47,5 +47,6 @@ Purpose:Detects suspicious behavior based on traffic patterns
 Too many packets from one IP in short time = DoS
   B. PORT SCAN DETECTION
 Attacker tries many ports to find open services
+
 
 “This project implements a real‑time packet sniffer and mini intrusion detection system using Python and Scapy to detect DoS attacks and port scanning based on traffic behavior analysis.”
